@@ -467,7 +467,7 @@ nav {
 /* ------- MAIN RESPONSIVENESS -------- */
 @media only screen and (max-width:940px) {
     .sections {
-        height: 2750px;
+        height: 2820px;
     }
 
     nav {
